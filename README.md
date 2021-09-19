@@ -8,6 +8,6 @@ Requirement:
 
 TO USE:
 
-    Download the code and clone the repository
-    cd src
-    run shell script which download all the requirement ./highest_profit.sh
+    - Download the code and clone the repository
+    - cd src
+    - Run shell script which download all the requirement ./highest_profit.sh
